@@ -4,7 +4,8 @@
 > - Méline Trochon
 > - Valentina Moretti
 > - Mattia Colbertaldo
---
+
+---
 
 ## Dataset
-We use the *SQuAD2.0: The Stanford Question Answering Dataset* dataset that can be downloaded [here]{https://rajpurkar.github.io/SQuAD-explorer/}.
+We use the *SQuAD2.0: The Stanford Question Answering Dataset* dataset that can be downloaded [here](https://rajpurkar.github.io/SQuAD-explorer/).
