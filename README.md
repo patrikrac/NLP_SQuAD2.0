@@ -23,8 +23,16 @@ In the ATML_Project2 notebook we
  
 * create a chatbot that uses the model to answer questions about the dataset.
 
+* implement text to speech and speech to text to make the chatbot more interactive.
+
+* fine tune of the model on the speeech to text task on our voice
+
+* implement an UI to record our voice and then predict the text that is used by the chatbot
+
+* costumize the chatbot to our voice by fine tuning it on our voice
+
 * implement few shot learning by using a generative model.
 
-* implement text to speech and speech to text to make the chatbot more interactive.
+
 
 
