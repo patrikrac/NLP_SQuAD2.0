@@ -20,6 +20,8 @@ In the ATML_Project2 notebook we
 * finetune a pretrained DistilBERT model (from HuggingFace's transformers library) on the Squadv2 dataset,
 
 * evaluate the model on the test set and save the model and the tokenizer for later use.
+
+* create a retrieval-based chatbot that can identify both impossible and certain answers
  
 * create a chatbot that uses the model to answer questions about the dataset.
 
@@ -30,6 +32,8 @@ In the ATML_Project2 notebook we
 * implement an UI to record our voice and then predict the text that is used by the chatbot
 
 * costumize the chatbot to our voice by fine tuning it on our voice
+
+* repeat the process using the fine tuned Distilbert on SquadV2 dataset using a pre-indexed Wikipedia dataset.
 
 * implement few shot learning by using a generative model.
 
