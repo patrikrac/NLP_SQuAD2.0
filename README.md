@@ -38,5 +38,8 @@ In the ATML_Project2 notebook we
 * implement few shot learning by using a generative model.
 
 
+![DistilBERT Preview](./dist.png)
+
+
 
 
